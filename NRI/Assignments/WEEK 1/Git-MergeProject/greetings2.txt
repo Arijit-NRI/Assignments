@@ -1,3 +1,19 @@
-This file is the 1st file .. another file from main3 will make a conflict when created.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lines kept blank to Resolve Conflicts caused by the second file in branch main3
+Conflicts will be resolved now!
 This is a second merge file
 Doing it for the second time !
