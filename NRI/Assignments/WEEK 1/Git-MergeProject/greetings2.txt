@@ -1,3 +1,3 @@
-
+This is the file in the second file which is causing the conflict.
 This is a second merge file
 Doing it for the second time !
