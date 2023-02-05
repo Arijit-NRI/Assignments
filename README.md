@@ -11,7 +11,12 @@ WEEK 2
 Go to Week 2 folder in main branch    
 1. Inheritance , Overloading, Overriding -> Assignment 1 , Assignment 2    
 2. Abstract class, Interface, Inner classes, Exceptions -> Assignment 1   
-3. Multithreading -> Assignment 1
+3. Multithreading -> Assignment 1    
+
+WEEK 3    
+Go to Week 3 folder in Main branch    
+1. Java 8 functionality -> Assginment 1, Assignment 2, Assignment 3     
+
 
 
 
