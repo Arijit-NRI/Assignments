@@ -20,7 +20,12 @@ Go to Week 3 folder in Main branch
 WEEK 4     
 Go to Week 4 folder in Main branch    
 1. Html -> Assignment 1 -> Q1,Q2,Q3 , Assignment 2    
-2. JSP,Hibernate -> Jsp-> Assignment1-> Q1,Q2 , Assignment 2 , Hibernate-> MVC , Hibernate 
+2. JSP,Hibernate -> Jsp-> Assignment1-> Q1,Q2 , Assignment 2 , Hibernate-> MVC , Hibernate      
+        
+ WEEK 5     
+ Go to Week 5 folder in Main branch      
+ 1. Introduction to Spring -> Assignment 1 : Week 5/Introduction to Spring/Assignment 1/           
+ 
 
 
 
