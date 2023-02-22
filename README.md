@@ -24,7 +24,10 @@ Go to Week 4 folder in Main branch
         
  WEEK 5     
  Go to Week 5 folder in Main branch      
- 1. Introduction to Spring -> Assignment 1 : Week 5/Introduction to Spring/Assignment 1/           
+ 1. Introduction to Spring -> Assignment 1 : Week 5/Introduction to Spring/Assignment 1/         
+ 2. Understanding on Spring MVC -> Assignment 1 : Week 5/Understanding on Spring MVC/Assignment 1/
+ 
+ 
  
 
 
